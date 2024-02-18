@@ -1,0 +1,1 @@
+/home/juliano/.asdf/completions/asdf.fish
